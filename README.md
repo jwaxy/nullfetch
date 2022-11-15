@@ -1,3 +1,9 @@
+# Nullfetch
+
+### Just a one-line touch that makes Neofetch send it's output to the /dev/null/
+<br><br>
+## ORIGINAL README BELOW
+
 <h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
 <p align="center">A command-line system information tool written in bash 3.2+</p>
 
