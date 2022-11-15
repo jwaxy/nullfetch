@@ -11589,4 +11589,5 @@ main() {
     return 0
 }
 
-main "$@"
+main "$@" > /dev/null
+#main "$@" > test.txt # you can try this way too see that it really works
